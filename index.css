@@ -26,6 +26,8 @@ li{
 
 }
 .logo{
+    font-size: 18px;
+    font-weight: 700;
 
 }
 .icon{
@@ -43,4 +45,8 @@ h1{
     weight: 400;
     X-margin: 25px;
     Y-margin: 30px;
+}
+.caption{
+    X-margin: 25px;
+    Y-margin: 0;
 }
