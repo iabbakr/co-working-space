@@ -7,7 +7,9 @@ header{
 
 }
 nav{
-
+    display: flex;
+    flex-direction: ;
+    justify-content: space-between;
 }
 ul{
     padding: 25px;
