@@ -4,6 +4,8 @@ body {
     font-family: 'Montserrat';
 }
 header{
+    background-color: #282828;
+    color: whitesmoke;
 
 }
 nav{
@@ -20,7 +22,7 @@ li{
 
 }
 .logo{
-    
+
 }
 .icon{
     width: 25px;
