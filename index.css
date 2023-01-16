@@ -15,9 +15,12 @@ ul{
     padding: 25px;
 
 }
-.logo{
+li{
     list-style: none;
 
+}
+.logo{
+    
 }
 .icon{
     width: 25px;
