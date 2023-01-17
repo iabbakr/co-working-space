@@ -61,6 +61,10 @@ h1{
 }
 .caption {
     margin: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin: 0 25px;
 }
 .item-img {
     width: 100%;
