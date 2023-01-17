@@ -41,9 +41,8 @@ section{
 }
 h1{
     font-size: 40px;
-    weight: 400;
-    X-margin: 25px;
-    Y-margin: 30px;
+    font-weight: 400;
+    margin: 30px 25px;
 }
 .caption{
     X-margin: 25px;
