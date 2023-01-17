@@ -51,6 +51,7 @@ h1{
 }
 .item{
     display: flex;
+    position: relative;
 }
 item-img{
     position: absolute;
