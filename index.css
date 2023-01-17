@@ -95,4 +95,7 @@ button {
     .chatbox-img {
         margin: auto;
         width: 50%; 
-    
+    }
+    .ss{
+        height: 300px;
+    }
