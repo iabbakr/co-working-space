@@ -52,6 +52,8 @@ h1{
 .item{
     display: flex;
     position: relative;
+    flex-direction: column;
+
 }
 .img-banner{
     width: 80px;
