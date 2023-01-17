@@ -49,3 +49,11 @@ h1{
     X-margin: 25px;
     Y-margin: 0;
 }
+.item{
+    position: relative;
+}
+item-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
