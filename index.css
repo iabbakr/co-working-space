@@ -50,6 +50,7 @@ h1{
     Y-margin: 0;
 }
 .item{
+    display: flex;
     position: relative;
 }
 item-img{
