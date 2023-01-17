@@ -16,7 +16,6 @@ nav{
 ul{
     padding: 25px;
     display: flex;
-    flex-direction: ;
     justify-content: space-between;
 
 
@@ -33,6 +32,9 @@ li{
 .icon{
     width: 25px;
     float: right;
+}
+.icon-left{
+    margin-left: auto;
 }
 main{
 
