@@ -77,5 +77,5 @@ button {
     font-weight: 700;
     cursor: pointer;
     height: 40px;
-    margin: auto;
+    align-self: center;
 }
