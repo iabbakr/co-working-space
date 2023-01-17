@@ -69,3 +69,11 @@ h1{
 .item-img {
     width: 100%;
 }
+button {
+    border: none;
+    background-color: #cd6858;
+    color: whitesmoke;
+    padding: 10px 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
