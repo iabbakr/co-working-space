@@ -54,6 +54,9 @@ h1{
     position: relative;
 }
 item-img{
+    width: 30px;
+    height: 30px;
+    background-color: aquamarine;
     position: absolute;
     top: 0;
     left: 0;
