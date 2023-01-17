@@ -9,9 +9,6 @@ header{
 
 }
 nav{
-    display: flex;
-    flex-direction: ;
-    justify-content: space-between;
 }
 ul{
     padding: 25px;
@@ -28,7 +25,6 @@ li{
 }
 .icon{
     width: 25px;
-    float: right;
 }
 .align-right{
     margin-left: auto;
