@@ -53,8 +53,15 @@ h1{
 .img-banner{
     width: 80px;
     height: 30px;
-    background-color: aquamarine;
+    background-color: #cd6858;
+    color: whitesmoke;
     position: absolute;
     top: 0;
     left: 0;
+}
+.caption {
+    margin: 0 25px;
+}
+.item-img {
+    width: 100%;
 }
